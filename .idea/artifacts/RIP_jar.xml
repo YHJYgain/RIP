@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RIP:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RIP_jar</output-path>
+    <root id="archive" name="RIP.jar">
+      <element id="module-output" name="RIP" />
+    </root>
+  </artifact>
+</component>
